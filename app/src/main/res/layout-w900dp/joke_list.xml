@@ -1,0 +1,15 @@
+
+    <android.support.v7.widget.RecyclerView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/joke_list"
+        android:name="com.thebusyteam.lol.JokeListFragment"
+        android:layout_width="@dimen/item_width"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="64dp"
+        android:layout_marginRight="64dp"
+        app:layoutManager="LinearLayoutManager"
+        tools:context="com.thebusyteam.lol.ui.JokeListActivity"
+        tools:listitem="@layout/joke_list_content" >
+
+    </android.support.v7.widget.RecyclerView>

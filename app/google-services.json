@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "244681343914",
+    "firebase_url": "https://lolfirebaseproject-b1bad.firebaseio.com",
+    "project_id": "lolfirebaseproject-b1bad",
+    "storage_bucket": "lolfirebaseproject-b1bad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244681343914:android:5ebfa394339cdc40",
+        "android_client_info": {
+          "package_name": "com.thebusyteam.lol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244681343914-t6bhjua9847rjg2d53nmn1o834k00407.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thebusyteam.lol",
+            "certificate_hash": "fc85747a631b442fe9c4d14b73c076be7743b894"
+          }
+        },
+        {
+          "client_id": "244681343914-u4certsg0p4fhupl33jcdruld9cpc2h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX8FQMvGvprJFHIBAo_sgwRDB9-K02z9Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244681343914-u4certsg0p4fhupl33jcdruld9cpc2h0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
